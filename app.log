@@ -1,0 +1,4 @@
+2025-05-09 15:12:24,854 - main - INFO - Initialized 4 client collections from persistent storage
+2025-05-09 15:13:02,917 - main - INFO - Initialized 4 client collections from persistent storage
+2025-05-09 15:14:44,266 - main - INFO - Loading embedding model...
+2025-05-09 15:14:53,325 - main - INFO - Embedding model loaded successfully
