@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/**/*.py": {
-      "runtime": "python@3.13.3"
+      "runtime": "python3.9"
     }
   }
 }
